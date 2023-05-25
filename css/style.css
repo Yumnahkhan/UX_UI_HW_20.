@@ -139,11 +139,12 @@ h1 {
 
 p.lead {
     text-align: center;
+    font-size: 16px;
 }
 
 .jumbotron {
     background-color: #9c868c;
-    height: 600px;
+    height: 500px;
     width: 100%;
 }
 
