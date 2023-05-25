@@ -143,6 +143,8 @@ p.lead {
 
 .jumbotron {
     background-color: #9c868c;
+    height: 600px;
+    width: 100%;
 }
 
 .card-group {
